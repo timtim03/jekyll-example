@@ -8,6 +8,7 @@ url: "https://timtim03.github.io" # the base hostname & protocol for your site
 baseurl: "/jekyll-example" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
+minimal_mistakes_skin: plum
 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks

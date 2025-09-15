@@ -1,7 +1,8 @@
 ---
 layout: home
-title: welcome home!
+title: Welcome home!
+header:
+    image: /assets/images/parrot.jpg
 ---
 
-
-#this is my homepage
+#This is my homepage
