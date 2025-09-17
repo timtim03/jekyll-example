@@ -3,7 +3,7 @@ layout: home
 title: Welcome home!
 excerpt: this is a test excerpt
 header:
-    image: /assets/images/parrot.jpg
+    image: /assets/images/trees.jpg
     actions:
         - label: "Learn More"
         - url: /about
