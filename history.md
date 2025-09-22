@@ -3,9 +3,7 @@ title: History
 layout: single
 ---
 
-From sacred waters to modern eco-travel—how Baikal’s story was written.
-
-# Baikal Through the Ages
+## Baikal Through the Ages
 
 **Ancient / Indigenous Traditions**  
 For Buryat and Evenk peoples, Baikal is a living spirit. Ritual sites and **serge** (wooden totems) still mark sacred places around the lake.
