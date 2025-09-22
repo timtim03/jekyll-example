@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Guide to Baikal for beginners
+title: What to Eat Around Baikal
 author_profile: true
 author:
     name: Tim

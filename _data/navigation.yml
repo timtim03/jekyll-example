@@ -10,3 +10,6 @@ main:
 
   - title: "Dining"
     url: /dining
+
+  - title: "Blog"
+    url: /blog
