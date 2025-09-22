@@ -21,4 +21,4 @@ Unique endemics (like the **nerpa** seal) inspired reserves and national parks. 
 - **Taltsy Museum:** Wooden Siberian architecture on the Angara River  
 - **Circum-Baikal:** Historic tunnels, bridges, and photo stops along the shore
 
-Respect sites—avoid climbing on sacred rocks and follow local guidance.
+**Respect sites—avoid climbing on sacred rocks and follow local guidance.**
